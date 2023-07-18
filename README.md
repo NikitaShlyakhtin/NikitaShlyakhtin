@@ -37,6 +37,6 @@ Here are some notable projects I've worked on:
 Feel free to reach out to me through the following channels:
 
 - Email: nikitashliahtin@mail.ru
-- Telegram: [@NikitaShlyakhtin](t.me/NikitaShlyakhtin)
+- Telegram: [@NikitaShlyakhtin](https://t.me/NikitaShlyakhtin)
 
 Let's connect and collaborate on exciting projects together! ✨
