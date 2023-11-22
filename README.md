@@ -8,7 +8,7 @@ I'm a Computer Science student at Innopolis University, specializing in full-sta
 
 ## Skills 🚀
 
-- Full-Stack development ( HTML, CSS, TypeScript, React, Next.js, Python )
+- Full-Stack development ( TypeScript, React, Next.js, Python, Go )
 - Mobile development ( Flutter )
 - Database management ( PostgreSQL, MongoDB, Firebase )
 - Version control ( Git, GitHub, GitLab )
@@ -30,7 +30,7 @@ Here are some notable projects I've worked on:
        
        The project was developed for university Software Project Course in a team of four people with me as team leader, manager and full-stack developer. 
     - Technologies used: Python (Telegram Bot), TypeScript + Next.js (Web App), PostgreSQL
-    - GitHub repository: [Link to the project repository](https://gitlab.pg.innopolis.university/innobookingbot)
+    - GitLab repository: [Link to the project repository](https://gitlab.pg.innopolis.university/innobookingbot)
 
 ## Contact 📫
 
