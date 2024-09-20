@@ -1,6 +1,6 @@
 Hi there! 👋 
 
-I'm a Computer Science student at Innopolis University, specializing in full-stack development. I'm passionate about creating innovative projects and leading teams to success. ✨
+I'm a Computer Science student at Innopolis University, specializing in backend development with Golang. ✨
 
 ## Education 🎓
 
@@ -8,9 +8,10 @@ I'm a Computer Science student at Innopolis University, specializing in full-sta
 
 ## Skills 🚀
 
-- Full-Stack development ( TypeScript, React, Next.js, Python, Go )
+- Frontend development ( TypeScript, React, Next.js )
+- Backend development ( Golang )
 - Mobile development ( Flutter )
-- Database management ( PostgreSQL, MongoDB, Firebase )
+- Database management ( PostgreSQL, MongoDB, Redis )
 - Version control ( Git, GitHub, GitLab )
 
 ## Projects 💡
@@ -38,5 +39,3 @@ Feel free to reach out to me through the following channels:
 
 - Email: nikitashliahtin@mail.ru
 - Telegram: [@NikitaShlyakhtin](https://t.me/NikitaShlyakhtin)
-
-Let's connect and collaborate on exciting projects together! ✨
